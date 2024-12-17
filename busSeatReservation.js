@@ -8,7 +8,7 @@ let b = [
   { n: "Pasay", s: Array(30).fill("AVAILABLE") }
 ];
 
-// checks if username and password are like correct or something
+// checks if userame and password are like correct or something
 function auth(uN, pW) {
   return u.some(function (x) {
     return x.u === uN && x.p === pW;
