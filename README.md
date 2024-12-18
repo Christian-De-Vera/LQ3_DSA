@@ -4,4 +4,4 @@ De Vera, Christian
 
 Tagadtad, Gail Anne
 
-Valdez, John Seian //No assistance 
+Valdez, John Seian  #NO ASSISTANCE
